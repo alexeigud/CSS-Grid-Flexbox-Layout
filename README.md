@@ -1,2 +1,2 @@
 # CSS-Grid-Flexbox-Layout
-Practice template for a website's home page
+Practice website structure/layout for a home page using CSS Grid and Flexbox together
